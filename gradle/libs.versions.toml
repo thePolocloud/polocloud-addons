@@ -22,7 +22,7 @@ nukkit = "1.0-SNAPSHOT"
 npc-bukkit = "3.0.0-beta.16"
 
 # bStats
-bstats = "3.1.0"
+bstats = "3.2.1"
 
 # placeholder api
 placeholderapi = "2.11.6"
